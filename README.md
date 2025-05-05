@@ -2,8 +2,8 @@
 
 This is a simple clone of the **MakeMyTrip homepage hero section**, developed using **HTML** and **CSS**. The project was built as part of the **Liftoff Club's Tech Domain Task** at **SRMIST**.
 
-> 🔗 **Live Link:** [Click here to view the project](https://shaurya07dev.github.io/liftoff/)  
-> 📁 **GitHub Repository:** [MakeMyTrip Clone](https://github.com/Shaurya07dev/liftoff)
+> 🔗 **Live Link:** [Click here to view the project](https://shaurya07dev.github.io/YouTube_hero-section-clone/)  
+> 📁 **GitHub Repository:** [MakeMyTrip Clone](https://github.com/Shaurya07dev/YouTube_hero-section-clone)
 
 ---
 
